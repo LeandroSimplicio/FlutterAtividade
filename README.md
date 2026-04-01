@@ -64,7 +64,7 @@ Tela voltada para coleta de dados pessoais e de localização do usuário.
 - Validação lógica de CPF
 - Integração com API de CEP
 - Preenchimento automático de endereço
-- Campos complementares para número residencial e observações :contentReference[oaicite:6]{index=6}
+- Campos complementares para número residencial e observações 
 
 ### 4. Navegação via Menu Lateral
 Foi implementado um **menu lateral (Drawer)** para facilitar a navegação entre as principais seções do aplicativo.
