@@ -19,7 +19,7 @@
 
 ## 📌 Sobre o projeto
 
-O **Order 404** é um aplicativo desenvolvido no **FlutterFlow** com o objetivo de demonstrar, na prática, conhecimentos de construção de interfaces responsivas, navegação entre telas, validação de dados e integração com API externa. O projeto simula um fluxo de autenticação e cadastro de usuários em uma aplicação mobile. :contentReference[oaicite:1]{index=1}
+O **Order 404** é um aplicativo desenvolvido no **FlutterFlow** com o objetivo de demonstrar, na prática, conhecimentos de construção de interfaces responsivas, navegação entre telas, validação de dados e integração com API externa. O projeto simula um fluxo de autenticação e cadastro de usuários em uma aplicação mobile. 
 
 ---
 
@@ -31,7 +31,7 @@ O **Order 404** é um aplicativo desenvolvido no **FlutterFlow** com o objetivo 
 - Validação lógica de CPF
 - Integração com API de CEP
 - Preenchimento automático de endereço
-- Navegação interna com menu lateral (Drawer) :contentReference[oaicite:2]{index=2}
+- Navegação interna com menu lateral (Drawer)
 
 ---
 
@@ -59,7 +59,7 @@ Este projeto foi desenvolvido como atividade prática para aplicar conceitos fun
 - organização visual com widgets estruturais;
 - navegação entre páginas;
 - validação de campos;
-- consumo de API para automação de preenchimento de endereço. :contentReference[oaicite:3]{index=3}
+- consumo de API para automação de preenchimento de endereço. 
 
 ---
 
@@ -75,7 +75,7 @@ Este projeto foi desenvolvido como atividade prática para aplicar conceitos fun
 - Navegação entre telas
 - Uso de widgets estruturais
 - Validação de campos obrigatórios
-- Máscaras e verificações para CPF e CEP :contentReference[oaicite:4]{index=4}
+- Máscaras e verificações para CPF e CEP 
 
 ---
 
