@@ -342,9 +342,7 @@ class _IntegrantesDoGrupoWidgetState extends State<IntegrantesDoGrupoWidget> {
                                                         .labelMedium
                                                         .fontStyle,
                                               ),
-                                              color:
-                                                  FlutterFlowTheme.of(context)
-                                                      .primaryText,
+                                              color: Color(0xFF0F0F0F),
                                               letterSpacing: 0.0,
                                               fontWeight:
                                                   FlutterFlowTheme.of(context)
