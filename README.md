@@ -1,7 +1,7 @@
 # 📱 Order 404
 
 <p align="center">
-  <img src="./images/logo.png" alt="Order 404 Logo" width="180"/>
+  <img src="./images/logo 404.png" alt="Order 404 Logo" width="180"/>
 </p>
 
 <p align="center">
