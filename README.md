@@ -1,95 +1,85 @@
-# 📱 Order 404 - Aplicativo de Cadastro com FlutterFlow
+# 📱 Order 404
 
-## 📖 Sobre o projeto
+<p align="center">
+  <img src="./images/logo.png" alt="Order 404 Logo" width="180"/>
+</p>
 
-O **Order 404** é um aplicativo desenvolvido como atividade prática utilizando **FlutterFlow**, com o objetivo de demonstrar conhecimentos adquiridos nas aulas iniciais da plataforma.
+<p align="center">
+  <b>Aplicativo de cadastro desenvolvido no FlutterFlow como atividade prática acadêmica</b>
+</p>
 
-O projeto tem como foco principal a construção de uma aplicação com **interfaces responsivas**, **navegação entre telas**, **validação de dados** e **integração com API externa**, simulando um fluxo real de autenticação e cadastro de usuários. :contentReference[oaicite:1]{index=1}
+<p align="center">
+  <img src="https://img.shields.io/badge/FlutterFlow-Mobile%20App-blue?style=for-the-badge" alt="FlutterFlow"/>
+  <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-success?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Projeto-Acad%C3%AAmico-orange?style=for-the-badge" alt="Projeto Acadêmico"/>
+  <img src="https://img.shields.io/badge/API-CEP-informational?style=for-the-badge" alt="API CEP"/>
+</p>
 
 ---
 
-## 👥 Integrantes do grupo
+## 📌 Sobre o projeto
 
-- David Rosa  
-- Emily Yanke Fraga  
-- Gabrielle Ferreira Gomes  
-- Leandro Antonio Simplicio :
+O **Order 404** é um aplicativo desenvolvido no **FlutterFlow** com o objetivo de demonstrar, na prática, conhecimentos de construção de interfaces responsivas, navegação entre telas, validação de dados e integração com API externa. O projeto simula um fluxo de autenticação e cadastro de usuários em uma aplicação mobile. :contentReference[oaicite:1]{index=1}
+
+---
+
+## ✨ Destaques do projeto
+
+- Splash screen com identidade visual do app
+- Tela de login com foco em usabilidade
+- Tela de cadastro com dados pessoais e endereço
+- Validação lógica de CPF
+- Integração com API de CEP
+- Preenchimento automático de endereço
+- Navegação interna com menu lateral (Drawer) :contentReference[oaicite:2]{index=2}
+
+---
+
+## 📚 Sumário
+
+- [📌 Sobre o projeto](#-sobre-o-projeto)
+- [✨ Destaques do projeto](#-destaques-do-projeto)
+- [🎯 Objetivo da atividade](#-objetivo-da-atividade)
+- [🛠️ Tecnologias e conceitos aplicados](#️-tecnologias-e-conceitos-aplicados)
+- [🧱 Estrutura do aplicativo](#-estrutura-do-aplicativo)
+- [📱 Funcionalidades](#-funcionalidades)
+- [🖼️ Demonstração](#️-demonstração)
+- [👥 Integrantes do grupo](#-integrantes-do-grupo)
+- [🚀 Aprendizados obtidos](#-aprendizados-obtidos)
+- [🔮 Melhorias futuras](#-melhorias-futuras)
+- [📄 Licença](#-licença)
 
 ---
 
 ## 🎯 Objetivo da atividade
 
-Desenvolver um aplicativo mobile no FlutterFlow que permitisse aplicar, na prática:
+Este projeto foi desenvolvido como atividade prática para aplicar conceitos fundamentais do FlutterFlow, com foco em:
 
-- Criação de telas com layout responsivo
-- Organização visual com widgets estruturais
-- Navegação entre páginas
-- Validação de campos de entrada
-- Integração com API para preenchimento automático de endereço
-
----
-
-## ✨ Funcionalidades principais
-
-### 1. Splash Screen
-Tela exibida durante a inicialização do aplicativo, criada para apresentar a identidade visual do projeto e gerar uma transição mais suave até a tela principal. :contentReference[oaicite:4]{index=4}
-
-### 2. Módulo de Login
-Tela de autenticação construída com foco em usabilidade e organização visual.
-
-**Recursos implementados:**
-- Campo de e-mail
-- Campo de senha
-- Botão de entrada
-- Redirecionamento para cadastro
-- Layout responsivo com `Column`, `Row` e `Stack` 
-
-### 3. Módulo de Cadastro de Usuários
-Tela voltada para coleta de dados pessoais e de localização do usuário.
-
-**Dados cadastrados:**
-- Nome
-- E-mail
-- Telefone
-- Senha
-- CPF
-- CEP
-- Rua
-- Número
-- Bairro
-- Cidade
-- Complemento
-
-**Recursos implementados:**
-- Validação lógica de CPF
-- Integração com API de CEP
-- Preenchimento automático de endereço
-- Campos complementares para número residencial e observações 
-
-### 4. Navegação via Menu Lateral
-Foi implementado um **menu lateral (Drawer)** para facilitar a navegação entre as principais seções do aplicativo.
-
-**Benefícios do menu lateral:**
-- Melhor organização das telas
-- Navegação rápida entre módulos
-- Interface principal menos poluída
-- Acesso simplificado às funcionalidades do app 
+- criação de layouts responsivos;
+- organização visual com widgets estruturais;
+- navegação entre páginas;
+- validação de campos;
+- consumo de API para automação de preenchimento de endereço. :contentReference[oaicite:3]{index=3}
 
 ---
 
 ## 🛠️ Tecnologias e conceitos aplicados
 
-Este projeto utilizou os seguintes recursos e conceitos:
+### Tecnologias
+- **FlutterFlow**
+- **API de CEP**
+- **Requisições HTTP**
 
-- **FlutterFlow** como plataforma principal de desenvolvimento
-- **Widgets estruturais** para alinhamento e empilhamento de elementos
-- **Consumo de API** com requisições HTTP para busca de endereço via CEP
-- **Lógica de programação** para validações de campos obrigatórios
-- **Máscaras e verificações** para CPF e CEP 
+### Conceitos trabalhados
+- Layout responsivo
+- Navegação entre telas
+- Uso de widgets estruturais
+- Validação de campos obrigatórios
+- Máscaras e verificações para CPF e CEP :contentReference[oaicite:4]{index=4}
 
 ---
 
-## 🧱 Estrutura geral do aplicativo
+## 🧱 Estrutura do aplicativo
 
 ```text
 Order 404
