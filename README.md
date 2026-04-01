@@ -13,7 +13,7 @@ O projeto tem como foco principal a construção de uma aplicação com **interf
 - David Rosa  
 - Emily Yanke Fraga  
 - Gabrielle Ferreira Gomes  
-- Leandro Antonio Simplicio :contentReference[oaicite:2]{index=2}
+- Leandro Antonio Simplicio :
 
 ---
 
@@ -25,7 +25,7 @@ Desenvolver um aplicativo mobile no FlutterFlow que permitisse aplicar, na prát
 - Organização visual com widgets estruturais
 - Navegação entre páginas
 - Validação de campos de entrada
-- Integração com API para preenchimento automático de endereço :contentReference[oaicite:3]{index=3}
+- Integração com API para preenchimento automático de endereço
 
 ---
 
@@ -42,7 +42,7 @@ Tela de autenticação construída com foco em usabilidade e organização visua
 - Campo de senha
 - Botão de entrada
 - Redirecionamento para cadastro
-- Layout responsivo com `Column`, `Row` e `Stack` :contentReference[oaicite:5]{index=5}
+- Layout responsivo com `Column`, `Row` e `Stack` 
 
 ### 3. Módulo de Cadastro de Usuários
 Tela voltada para coleta de dados pessoais e de localização do usuário.
@@ -73,7 +73,7 @@ Foi implementado um **menu lateral (Drawer)** para facilitar a navegação entre
 - Melhor organização das telas
 - Navegação rápida entre módulos
 - Interface principal menos poluída
-- Acesso simplificado às funcionalidades do app :contentReference[oaicite:7]{index=7}
+- Acesso simplificado às funcionalidades do app 
 
 ---
 
@@ -85,7 +85,7 @@ Este projeto utilizou os seguintes recursos e conceitos:
 - **Widgets estruturais** para alinhamento e empilhamento de elementos
 - **Consumo de API** com requisições HTTP para busca de endereço via CEP
 - **Lógica de programação** para validações de campos obrigatórios
-- **Máscaras e verificações** para CPF e CEP :contentReference[oaicite:8]{index=8}
+- **Máscaras e verificações** para CPF e CEP 
 
 ---
 
